@@ -19,6 +19,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben64103&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben64103&show_icons=true&theme=gruvbox)
