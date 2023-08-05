@@ -18,7 +18,8 @@
    </p>
 
 ---
-
+<div align="center" style="display: flex;">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben64103&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Stats
@@ -27,6 +28,7 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+</div>
 #
 
 ### 🧰 Languages and Tools
