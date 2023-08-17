@@ -8,29 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=ben64103&color=grey">
-</p>
-   <p align="center">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ben64103?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ben64103?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ben64103?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
----
-<div align="center" style="display: flex;">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben64103&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben64103&show_icons=true&theme=tokyonight)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-</div>
-#
 
 ### 🧰 Languages and Tools
 
