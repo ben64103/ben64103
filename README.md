@@ -29,12 +29,11 @@
 
 <a href="http://www.github.com/ben64103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ben64103&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ben64103" align="left"><img src="https://api.githubtrends.io/user/svg/ben64103/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" /></a>
+
 
 
 <details>
 
 <p align="center">
-<!--     <a href="https://leetcode.com/ben64103/"><img width="48%" src="https://leetcode.card.workers.dev/ben64103?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
-    <a href="https://github.com/ben64013"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben64103&theme=dark&hide=cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/ben64103" align="left"><img src="https://api.githubtrends.io/user/svg/ben64103/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" /></a>
 </p>
