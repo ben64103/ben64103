@@ -29,11 +29,3 @@
 
 <a href="http://www.github.com/ben64103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ben64103&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-
-<details>
-
-<p align="center">
-    <a href="https://github.com/ben64103" align="left"><img src="https://api.githubtrends.io/user/svg/ben64103/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" /></a>
-</p>
