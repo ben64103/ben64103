@@ -30,6 +30,6 @@
 </p>
 
 <!-- Contribution Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ben64103&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&hide_border=true" alt="Contribution Graph">
-</p>
+
+<!-- ![svg](https://raw.githubusercontent.com/ben64103/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg) -->
+
