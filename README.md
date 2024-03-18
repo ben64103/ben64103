@@ -32,26 +32,9 @@
 
 <!-- Contribution Graph -->
 <!-- Uncomment this if you have a contribution graph -->
-<!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ben64103/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg" alt="Contribution Graph">
 </p>
--->
-
-<!-- Contact Section -->
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">Feel free to reach out for any inquiries or collaboration opportunities!</p>
-
-<p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-Your.Email%40gmail.com-%23D62F79?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
-<!-- Contributing and License Section -->
-<h2 align="center">🤝 Contributing & License</h2>
-
-<p align="center">Thank you for considering contributing to this project. Contributions are welcome!</p>
 
 <p align="center">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contribution%20Guide-Read-%230895C4?style=flat-square" alt="Contribution Guide"></a>
