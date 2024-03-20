@@ -32,9 +32,9 @@
 
 <!-- Contribution Graph -->
 <!-- Uncomment this if you have a contribution graph -->
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/ben64103/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg" alt="Contribution Graph">
-</p>
+
 
 <p align="center">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contribution%20Guide-Read-%230895C4?style=flat-square" alt="Contribution Guide"></a>
